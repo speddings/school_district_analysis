@@ -38,21 +38,16 @@ _Top Schools - Second Analysis_
 
   
 ### 3 Math and Reading Scores by Grade
-_Math Scores - First Analysis_
 
-![dataframe output](/resources/first_math_scores_by_grade.png)
+#### _Math Scores_
+First Analysis  | Second Analysis
+------------- | -------------
+![dataframe output](/resources/first_math_scores_by_grade.png)| ![dataframe output](/resources/second_math_scores_by_grade.png)
 
-_Math Scores - Second Analysis_
-
-![dataframe output](/resources/second_math_scores_by_grade.png)
-
-_Reading Scores - First Analysis_
-
-![dataframe output](/resources/first_reading_scores_by_grade.png)
-
-_Reading Scores - Second Analysis_
-
-![dataframe output](/resources/second_reading_scores_by_grade.png)
+#### _Reading Scores_
+First Analysis  | Second Analysis
+------------- | -------------
+![dataframe output](/resources/first_reading_scores_by_grade.png)| ![dataframe output](/resources/second_reading_scores_by_grade.png)
 
 Excluding the math and reading scores for Thomas High School 9th grade did not affect any other schools or grades. 
 
